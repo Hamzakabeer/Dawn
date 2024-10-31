@@ -288,5 +288,19 @@
 .dawnfoo{
     color: hsl(0, 0%, 95%);
 }
+/*  icon */
+.icon{
+    margin-right: 50px;
+    margin-left: 200px;
+}
+.icon2{
+    margin-right: 50px;
+    margin-left: 80px;
+}
+.icon3{
+    margin-right: 50px;
+    margin-left: 80px;
+}
+
 
 
