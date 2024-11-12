@@ -318,4 +318,30 @@
 .footerstock6{
     margin: 60px;
 }
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .top-nav .navbar-list a, .main-nav .navbar-list2 a {
+        font-size: 12px;
+    }
+
+    .main-headline h1, .main-subheadline h3 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 480px) {
+    .top-nav .navbar-list a, .main-nav .navbar-list2 a {
+        font-size: 10px;
+    }
+
+    .main-headline h1, .main-subheadline h3 {
+        font-size: 20px;
+    }
+
+    .searchb input {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
+
 
